@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**CallumGrooby00/CallumGrooby00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Callum 👋
+### Aspiring IT Support Technician based in Lincolnshire, UK
+ 
+---
+ 
+**About Me**
+ 
+- 🖥️ Building a home lab to develop hands-on IT support skills — Active Directory, networking, virtualisation, and helpdesk systems
+- 🎓 Games Design and Development graduate pivoting into IT, with 1.5 years of real-world admin and informal IT support experience
+- 📖 Currently studying for CompTIA Network+
+- 🔍 Actively looking for IT support and helpdesk roles in the UK
+---
+ 
+**Skills**
+ 
+`Windows Server` `Active Directory` `Microsoft 365` `KVM / Virtualisation` `Docker`  
+`Networking & Subnetting` `Hardware Troubleshooting` `Technical Documentation` `osTicket`
+ 
+---
